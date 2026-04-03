@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_GAN
+name: alice-gan
 description: ALICE GAN
 type: application
 version: 0.1.0
